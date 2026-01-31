@@ -1,2 +1,16 @@
 # BREAST-CANCERPREDICTION
 Cancer prediction on Wisconsin Breast Cancer Dataset using supervised learning - Logistic Regression. The model have achieved 94% of accuracy
+
+This project implements Logistic Regression to classify breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset. The model is trained on 80% of the data and tested on 20%. Performance evaluation using accuracy, confusion matrix, and classification report shows high prediction accuracy, demonstrating the effectiveness of logistic regression for medical diagnosis tasks.
+
+Get the Breast Cancer Wisconsin dataset using below line*
+
+'''python
+from sklearn.datasets import load_breast_cancer
+Data = load_breast_cancer()
+
+*Model Confusion Matrix Heatmap :*
+
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/4dc76b28-270e-47b9-8080-7cf521ddebb0" />
+
+
