@@ -7,7 +7,7 @@ This project implements Logistic Regression to classify breast tumors as maligna
 
 '''python
 from sklearn.datasets import load_breast_cancer
-Data = load_breast_cancer()
+Data =load_breast_cancer()
 '''
 
 
