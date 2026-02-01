@@ -5,10 +5,12 @@ This project implements Logistic Regression to classify breast tumors as maligna
 
 **Get the Breast Cancer Wisconsin dataset using below line**
 
-'''python
+```python
 from sklearn.datasets import load_breast_cancer
 Data =load_breast_cancer()
-'''
+```
+
+
 
 
 **Model Confusion Matrix Heatmap :**
